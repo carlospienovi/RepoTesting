@@ -6,5 +6,6 @@
     <string name="action_settings">Settings</string>
     <string name="string">TEST 2</string>
     <string name="ariel_test_string">More ikolomtest</string>
+    <string name="some_stuff">Let\'s put some stuff here.</string>
 
 </resources>
